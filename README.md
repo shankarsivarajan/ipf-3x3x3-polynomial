@@ -2,7 +2,7 @@
 
 Companion code for
 
-> Shankar Sivarajan, *The boundary structure of the maximum likelihood eliminant of 3x3x3 tables* (2026).
+> Shankar Sivarajan, *The boundary structure of the maximum likelihood eliminant of 3x3x3 tables*, [hexagon:2611.00947](https://hexagonmath.org/2611.00947) (2026).
 
 ## Overview
 
